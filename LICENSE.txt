@@ -1,0 +1,85 @@
+TANK ARENA - FREEWARE LICENSE / ЛИЦЕНЗИЯ FREEWARE
+Copyright (c) 2026 [Astolfo-Raider]. All rights reserved. / Все права защищены.
+
+======================================================================
+ENGLISH
+======================================================================
+
+1. GRANT. You may download, install and run Tank Arena (the "Software")
+   free of charge for personal, non-commercial use, and play it on any
+   number of your own computers.
+
+2. REDISTRIBUTION. You may share the original, unmodified Software package
+   (the exe/deb files exactly as published by the author) with other people
+   free of charge, provided that this license file stays with it and you
+   do not charge any fee for it.
+
+3. RESTRICTIONS. You may NOT, without the author's written permission:
+   a) sell, rent, lease or otherwise charge for the Software;
+   b) modify the Software or create derivative works from it;
+   c) decompile, disassemble or reverse engineer the Software, except
+      to the extent such activity is expressly permitted by applicable law;
+   d) remove or change copyright or license notices;
+   e) use the author's name or the name "Tank Arena" to promote other
+      products.
+
+4. NO SOURCE CODE LICENSE. This license covers only the compiled Software.
+   The source code is not published and no rights to it are granted.
+
+5. THIRD-PARTY COMPONENTS. The Software includes open-source components
+   that are licensed under their own terms. See THIRD-PARTY.txt. Nothing
+   in this license restricts your rights under those terms.
+
+6. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+7. NETWORK. The Software sends UDP packets on your local network (port
+   34254) to find and join games. It does not send data to the internet.
+
+8. TERMINATION. This license ends automatically if you violate it. Then
+   you must stop using the Software and delete all copies.
+
+9. If this text and the Russian text below differ, the English text applies.
+
+======================================================================
+РУССКИЙ
+======================================================================
+
+1. РАЗРЕШЕНИЕ. Вы можете бесплатно скачивать, устанавливать и запускать
+   Tank Arena («Программа») для личного некоммерческого использования на
+   любом количестве своих компьютеров.
+
+2. РАСПРОСТРАНЕНИЕ. Вы можете безвозмездно передавать другим людям
+   оригинальный, неизменённый пакет Программы (файлы exe/deb в том виде,
+   как их опубликовал автор) при условии, что этот файл лицензии
+   прилагается и плата за Программу не взимается.
+
+3. ОГРАНИЧЕНИЯ. Без письменного разрешения автора ЗАПРЕЩАЕТСЯ:
+   а) продавать, сдавать в аренду или иным образом брать плату за Программу;
+   б) изменять Программу или создавать на её основе производные работы;
+   в) декомпилировать, дизассемблировать или анализировать Программу с
+      целью получения исходного кода, кроме случаев, прямо разрешённых
+      законом;
+   г) удалять или изменять уведомления об авторских правах и лицензии;
+   д) использовать имя автора или название «Tank Arena» для продвижения
+      других продуктов.
+
+4. ИСХОДНЫЙ КОД. Лицензия распространяется только на скомпилированную
+   Программу. Исходный код не публикуется, прав на него не передаётся.
+
+5. СТОРОННИЕ КОМПОНЕНТЫ. В Программу входят компоненты с открытым кодом,
+   которые распространяются на своих условиях. См. THIRD-PARTY.txt.
+   Настоящая лицензия не ограничивает ваши права по этим условиям.
+
+6. ОТСУТСТВИЕ ГАРАНТИЙ. ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ
+   КАКИХ-ЛИБО ГАРАНТИЙ. АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА ПРЕТЕНЗИИ,
+   УБЫТКИ И ИНОЙ УЩЕРБ, ВОЗНИКШИЕ ПРИ ИСПОЛЬЗОВАНИИ ПРОГРАММЫ.
+
+7. СЕТЬ. Программа отправляет UDP-пакеты в локальной сети (порт 34254)
+   для поиска игр и подключения. Данные в интернет она не отправляет.
+
+8. ПРЕКРАЩЕНИЕ. При нарушении условий лицензия автоматически
+   прекращается; нужно прекратить использование и удалить все копии.
+
+9. При расхождении этого текста с английским применяется английский.
